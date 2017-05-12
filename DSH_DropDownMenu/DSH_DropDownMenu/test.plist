@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>詹皇</string>
+		<string>小飞侠</string>
+		<string>T_Mac</string>
+		<string>闪电侠</string>
+		<string>AI</string>
+		<string>鲨鱼</string>
+		<string>姚明</string>
+		<string>欧文</string>
+		<string>神龟</string>
+	</array>
+	<array>
+		<string>德莱文</string>
+		<string>VN</string>
+		<string>EZ</string>
+		<string>麦林炮手</string>
+		<string>凯瑟琳</string>
+		<string>小萝莉</string>
+		<string>奥巴马</string>
+		<string>老鼠</string>
+		<string>大嘴</string>
+	</array>
+	<array>
+		<string>吃</string>
+		<string>喝</string>
+		<string>拉</string>
+		<string>撒</string>
+		<string>😴</string>
+		<string>🤔</string>
+		<string>🤑</string>
+	</array>
+</array>
+</plist>
